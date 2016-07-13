@@ -1,5 +1,4 @@
-# Claim:
-# The owner of this github account has created this repository for learning purpose only, all credits and copyright belongs to the author, Mr. Wes McKinney.
+# Claim: The owner of this github account has created this repository for learning purpose only, all credits and copyright belongs to the author, Mr. Wes McKinney.
 
 
 # pydata-book
