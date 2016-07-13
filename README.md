@@ -1,3 +1,7 @@
+# Claim:
+# The owner of this github account has created this repository for learning purpose only, all credits and copyright belongs to the author, Mr. Wes McKinney.
+
+
 # pydata-book
 Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
